@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-04-09 01:55+0200\n"
+"Last-Translator: Oleg Butuzov <qwerty@qwerty.co.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Ελληνικά\n"
+"X-Poedit-Country: Ελληνικά\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "UP"
+msgstr "ΠΑΝΩ"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "Κωδικός Γλώσσας (2 ή 3 σημαδιών)"
+
+msgid "Sorry, lang code not found."
+msgstr "Συγγνώμη, αλλά ο Κωδικός Γλώσσας δεν υπάρχει."
+
+msgid "Region"
+msgstr "Περιοχή"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "DOWN"
+msgstr "ΚΑΤΩ"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Deactivate"
+msgstr "Απενεργοποιήση"
+
+msgid "Default language"
+msgstr "Προεπιλεγμένη Γλώσσα"
+
+msgid "Locale"
+msgstr "Τοπικές ρυθμίσεις"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Language code"
+msgstr "Κωδικός Γλώσσας"
+
+msgid "Language name"
+msgstr "Όνομα γλώσσας"
+
+msgid "Language country"
+msgstr "Χώρα της γλώσσας"
+
+msgid "Language locale"
+msgstr "Τοπικές ρυθμίσεις της γλώσσας"
+
+msgid "Blog name"
+msgstr "Όνομα Μπλόγκ"
+
+msgid "Blog description"
+msgstr "Περιγραφή Μπλόγκ"
+
+msgid "Add"
+msgstr "Πρόσθηκη"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Reset"
+msgstr "Επαναφέρω"
+
+msgid "Sorry, but item already exists."
+msgstr "Συγγνώμη, αλλά το αντικείμενο υπάρχει ήδη."
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "table empty"
+msgstr "Ο πίνακας είναι κενός"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Slug"
+msgstr "Ψευδώνυμο"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Save Information"
+msgstr "Αποθήκευση των πληροφοριών"
+
+msgid "Installation"
+msgstr "Εγκατάσταση"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "Πρέπει να εγκαταστάσετε <b>Dean's FCKEditor για Wordpress</b> - αυτό το πρόσθετο πρόγραμμα αντικαθιστά τον προεπιλεγμένο Wordpress επεξεργαστή κειμένου με τον FCKeditor. Χρειαζόμαστε αυτόν τον επεξεργαστή κειμένου για να μπορεί να δουλέψει με πολλέσ γλώσσες. Μπορείτε να το κατεβάσετε απο την ιστοσελίδα (http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>)"
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor για Wordpress</b> εγκατεστημένος και ενεργοποιημένος"
+
+msgid "Step"
+msgstr "Βήμα"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "Παρακαλώ επιλέξτε μια γλώσσα η οποία θα πρέπει να είναι η προεπιλεγμένη για παλιές δημοσιεύσεις και σελίδες"
+
+msgid "Are you sure that you need this language "
+msgstr "Είστε βέβαιοι ότι χρειάζεστε αυτήν την γλώσσα;"
+
+msgid "Set Default Language"
+msgstr "Ορίστε προεπιλεγμένη γλώσσα"
+
+msgid "Please"
+msgstr "Παρακαλώ"
+
+msgid "configure WP_Multilingual"
+msgstr "Διαμορφώστε το WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "προκειμένου να τελειώσει η εγκατάσταση"
+
+msgid "Plugin uninstallation"
+msgstr "Απεγκατάσταση Πρόσθετου"
+
+msgid "Edit page"
+msgstr "Επεξεργασία σελίδας"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Post/Page"
+msgstr "Δημοσίευση/Σελίδα"
+
+msgid "Excerpt"
+msgstr "Σχολιασμός"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+msgid "Language List"
+msgstr "Λίστα γλωσσών"
+
+msgid "Categories Translation"
+msgstr "Μετάφραση κατηγοριών"
+
+msgid "Language Plugin Help"
+msgstr "Βοήθεια για την γλώσσα προσθέτων"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "Είστε σίγουροι οτι θέλετε να διαγράψετε όλα τα δεδομένα γλωσσών σχετικά με το πρόσθετο του WP_Multilingual και να απενεργοποιήσετε το πρόσθετο;"
+
+msgid "Delete translation data from"
+msgstr "Διαγράψτε τα δεδομένα μεταφράσεων από"
+
+msgid "and"
+msgstr "Και"
+
+msgid "Flush"
+msgstr "Αποκατάσταση"
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "Διαγράψτε τα δεδομένα γλώσσας και απενεργοποιήστε το πρόσθετο"
+
+msgid "Edit Language"
+msgstr "Επεξεργασία γλώσσας"
+
+msgid "Add Language"
+msgstr "Πρόσθεση Γλώσσας"
+
+msgid "Do you really want to delete this language?"
+msgstr "Πραγματικά θέλετε να διαγράψετε αυτήν την γλώσσα;"
+
+msgid "If you want to"
+msgstr "Αν το θέλετε"
+
+msgid "Deactivate plugin"
+msgstr "Απενεργοποίηση Πρόσθετου"
+
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+msgid "Tags"
+msgstr "Ετικέτες"
+
+msgid "Link Categories"
+msgstr "Κατηγορίες συνδέσμων"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Select item to translate"
+msgstr "Επιλέξτε αντικείμενο για μετάφραση"
+
+msgid "Select category to edit (original categories)"
+msgstr "Επιλέξτε την κατηγορία για την εδπεξεργασία (αρχικές κατηγορίες)"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "Επιλέξτε κατηγορία συνδέσμου για επεξεργασία ( αρχικές κατηγορίες συνδέσμων)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "Επιλέξτε την ετικέτα για επεξεργασία (αρχικές ετικέτες)"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "Να εντοπίσετε την WP_Multilingual διεπαφή"
+
+msgid "WP_Multilingual localization"
+msgstr "WP_Multilingual εντοπισμός"
+
+msgid "WP_Multilingual - localized!"
+msgstr "WP_Multilingual ήταν εντοπισμένος!"
+
+msgid "WP Admin Localization"
+msgstr "WP-Admin εντοπισμός"
+
+msgid "Localize WP"
+msgstr "Να εντοπίσετε WP"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "Εντοπισμός του WP-admin (βρίσκεται σε wp-includes/languages). "
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "Εντοπισμός του WP_Multilingual (εντοπισμένος σε %p/l10n)."
+
+msgid "WP localized"
+msgstr "WP είναι εντοπισμένο"
+
+msgid "Localization"
+msgstr "Εντοπισμός"
+
+msgid "Language switcher settings saved"
+msgstr "Ρυθμίσεις του γλωσσικού διακόπτη σώθικαν"
+
+msgid "Show language switcher at front end"
+msgstr "Δείξιμο του διακόπτη της γλώσσας στην ιστοσελίδα"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No - i will use own switcher"
+msgstr "Όχι - χρησιμοποιώ το δικό μου επιλογέα"
+
+msgid "Switcher type"
+msgstr "Τύπος επιλογέα"
+
+msgid "Only active languages"
+msgstr "Μόνο ενεργές γλώσσες"
+
+msgid "Active and pasive languages"
+msgstr "Ενεργές και παθητικές γλώσσες"
+
+msgid "Show it attached to footer or header?"
+msgstr "Δείξε το συνημμένο στo φούτερ η στην επικεφαλίδα;"
+
+msgid "Footer"
+msgstr "Φούτερ"
+
+msgid "Header"
+msgstr "Επικεφαλίδα"
+
+msgid "I will choose code location"
+msgstr "Θα επιλέξω τη θέση του κώδικα"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "Τοποθετήστε τον κώδικα στο πρότυπό σας σε μέρος όπου χρειάζεστε να δείτε τον επιλογέα γλώσσας"
+
+msgid "CSS for language switcher"
+msgstr "CSS για τον επιλογέα γλώσσας"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "required fields"
+msgstr "Απαραίτητα Πεδία"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "Συγγνώμη, αλλά αυτή γλώσσα δεν υπαρχεί στη βάση δεδομένων"
+
+msgid "Sorry, but required fields are missed"
+msgstr "Συγγνώμη, αλλά παραλείπονται απαραίτητα πεδία."
+
+msgid "Item doesn't exist"
+msgstr "Το αντικείμενο δεν υπάρχει"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "Συγγνώμη, αλλά η ιστοσελίδα δεν έχει ετικέτες αυτή την στιγμή"
+
+msgid "updated"
+msgstr "ενημερώθηκε"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "Συγγνώμη, αλλά η ιστοσελίδα δεν έχει κατηγορίες συνδέσμων αυτή την στιγμή"
+
+msgid "Languages"
+msgstr "Γλώσσες"
+
+msgid "created"
+msgstr "δημιουργήθηκε"
+
+msgid "Translation"
+msgstr "Μετάφραση"
+
+msgid "Your message sent!"
+msgstr "Το μύνημά σας εστάλει"
+
+msgid "Your message was not sent!.."
+msgstr "Το μύνημά σας δεν εστάλει. Παρακαλώ ελέγξτε τιε ρυθμίσεις του διακομιστή ταχυδρομείου"
+
+msgid "Request help"
+msgstr "Αίτηση Βοήθειας"
+
+msgid "Send message to author"
+msgstr "Στείλετε το μήνυμα στο συντάκτη"
+
+msgid "Subject"
+msgstr "Αντικείμενο"
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "Your e-mail"
+msgstr "Ηλεκτρονική διεύθυνσή σας"
+
+msgid "Your name"
+msgstr "Το όνομά σας"
+
+msgid "Sample of custom language switcher"
+msgstr "Δείγμα τροποποιημένου επιλογέα γλώσσας"
+
+msgid "Localize WP-Admin"
+msgstr "Να εντοπίσετε WP-Admin"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>τοπικές ρυθμίσεις</strong> - το αρχείο λείπει απο τον κατάλογο προσθέτων"
+

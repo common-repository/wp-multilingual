@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-04-28 16:37+0200\n"
+"Last-Translator: Oleg Butuzov <qwerty@qwerty.co.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Català\n"
+"X-Poedit-Country: Català\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "Esborrar"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "DOWN"
+msgstr "AVALL"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Priority"
+msgstr "Prioritat"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "UP"
+msgstr "DALT"
+
+msgid "Sorry, lang code not found."
+msgstr "Perdó, no s'ha trobat aquest codi d'idioma."
+
+msgid "Region"
+msgstr "Regió"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "Codi d'idioma (2 o 3 caràcters)"
+
+msgid "Active"
+msgstr "Actiu"
+
+msgid "Default language"
+msgstr "Idioma principal"
+
+msgid "Locale"
+msgstr "Local"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Language code"
+msgstr "Codi d'idioma"
+
+msgid "Language locale"
+msgstr "Lloc d'idioma"
+
+msgid "Blog name"
+msgstr "Nom del blog"
+
+msgid "Language country"
+msgstr "País d'idioma"
+
+msgid "Language name"
+msgstr "Nom d'idioma"
+
+msgid "Blog description"
+msgstr "Descripció del blog"
+
+msgid "required fields"
+msgstr "camps requerits"
+
+msgid "Add"
+msgstr "Afegir"
+
+msgid "Save"
+msgstr "Desar"
+
+msgid "Reset"
+msgstr "Restaurar"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "Aquest idioma no existeix en la base de dades"
+
+msgid "Sorry, but required fields are missed"
+msgstr "No has complert tots el camps requerits"
+
+msgid "Sorry, but item already exists."
+msgstr "Aquest ítem ja existeix."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "Estàs segur que vols esborrar totes les dades d'idioma relacionades amb WP_Multilingual i desactivar l'extensió?"
+
+msgid "table empty"
+msgstr "taula buida"
+
+msgid "Item doesn't exist"
+msgstr "Aquest ítem no existeix"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Slug"
+msgstr "URL"
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Save Information"
+msgstr "Desar informació"
+
+msgid "Installation"
+msgstr "Instal·lació"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "Cal instal·lar <b>Dean's FCKEditor for Wordpress</b> - aquesta extenció substitueix l'editor per defecte de Wordpress per FCKeditor. Aquest editor possibilita l'edició d'entrades en múltiples idiomes. Pots baixar-la en <a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>aquesta pàgina</a>."
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor For Wordpress</b> instal·lat i activat"
+
+msgid "Step"
+msgstr "Pas"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "Escull l'idioma per defecte per les entrades i pàgines antigues"
+
+msgid "Are you sure that you need this language "
+msgstr "Estàs segur que et cal aquest idioma"
+
+msgid "Set Default Language"
+msgstr "Determinar idioma per defecte"
+
+msgid "Please"
+msgstr "Si us plau"
+
+msgid "configure WP_Multilingual"
+msgstr "configurar WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "per acabar l'instal·lació"
+
+msgid "Plugin uninstallation"
+msgstr "Desinstal·lació de l'extensió"
+
+msgid "Edit page"
+msgstr "Editar la pàgina"
+
+msgid "Title"
+msgstr "Títol"
+
+msgid "Post/Page"
+msgstr "Entrada/Pàgina"
+
+msgid "and"
+msgstr "i"
+
+msgid "Flush"
+msgstr "Buidar"
+
+msgid "Delete translation data from"
+msgstr "Esborrar dades de traducció de"
+
+msgid "Language Plugin Help"
+msgstr "Ajuda sobre l'extensió d'idiomes"
+
+msgid "Categories Translation"
+msgstr "Traducció de categories"
+
+msgid "Language List"
+msgstr "Llista d'idiomes"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Excerpt"
+msgstr "Extret"
+
+msgid "Remove"
+msgstr "Treure"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "Esborrar les dades d'idioma i desactivar l'extensió"
+
+msgid "Edit Language"
+msgstr "Editar idioma"
+
+msgid "Add Language"
+msgstr "Afegir idioma"
+
+msgid "Do you really want to delete this language?"
+msgstr "Realment vols esborrar aquest idioma?"
+
+msgid "If you want to"
+msgstr "Si vols"
+
+msgid "Deactivate plugin"
+msgstr "Desactivar l'extensió"
+
+msgid "Translations"
+msgstr "Traduccions"
+
+msgid "Tags"
+msgstr "Etiquetes"
+
+msgid "Link Categories"
+msgstr "Categories d'enllaços"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Select item to translate"
+msgstr "Escull l'ítem que vols traduir"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "Aquest lloc no té etiquetes en aquest moment"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "Aquest lloc no té categories d'enllaços en aquest moment"
+
+msgid "Select category to edit (original categories)"
+msgstr "Escull la categoria que vols editar (categories originals)"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "Escull la categoria d'enllaços que vols editar (categories d'enllaços originals)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "Escull l'etiqueta que vols editar (etiquetes originals)"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "Localitzar l'interfície d'usuari de WP_Multilingual"
+
+msgid "WP_Multilingual localization"
+msgstr "Localització de WP_Multilingual"
+
+msgid "WP_Multilingual - localized!"
+msgstr "WP_Multilingual - localitzat!"
+
+msgid "WP Admin Localization"
+msgstr "Localització de WP Admin"
+
+msgid "Localize WP-Admin"
+msgstr "Localitzar WP Admin"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "Localització de WP Admin (que és a wp-includes/languages)."
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "Multilingual de WP_Multilingual (que és a %p/l10n)."
+
+msgid "WP localized"
+msgstr "WP localitzat"
+
+msgid "Localization"
+msgstr "Localització"
+
+msgid "Language switcher settings saved"
+msgstr "Opcions desades del canviador d'idiomes"
+
+msgid "Show language switcher at front end"
+msgstr "Mostrar canviador d'idiomes al frontal"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No - i will use own switcher"
+msgstr "No - utilitzaré el meu propi canviador"
+
+msgid "Switcher type"
+msgstr "Tipus de canviador"
+
+msgid "Only active languages"
+msgstr "Només idiomes actius"
+
+msgid "Active and pasive languages"
+msgstr "Idiomes actius i passius"
+
+msgid "Show it attached to footer or header?"
+msgstr "Mostrar-lo adjuntat a la capçalera o al peu de pàgina?"
+
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+msgid "Header"
+msgstr "Capçalera"
+
+msgid "I will choose code location"
+msgstr "Jo esculliré el lloc del codi"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "Incloure aquest codi en la teva plantilla on vols veure el canviador d'idiomes"
+
+msgid "CSS for language switcher"
+msgstr "CSS pel canviador d'idiomes"
+
+msgid "Sample of custom language switcher"
+msgstr "Exemple de canviador d'idiomes personalitzat"
+
+msgid "Localize WP"
+msgstr "Localitzar WP"
+
+msgid "Your name"
+msgstr "El teu nom"
+
+msgid "Your e-mail"
+msgstr "El teu correu electrònic"
+
+msgid "Subject"
+msgstr "Assumpte"
+
+msgid "Message"
+msgstr "Missatge"
+
+msgid "Send message to author"
+msgstr "Enviar missatge a l'autor"
+
+msgid "Request help"
+msgstr "Demanar ajuda"
+
+msgid "Your message was not sent!.."
+msgstr "El teu missatge no s'ha enviat!"
+
+msgid "Your message sent!"
+msgstr "El teu missatge s'ha enviat correctament!"
+
+msgid "Translation"
+msgstr "Traducció"
+
+msgid "Languages"
+msgstr "Idiomes"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>lloc</strong> - l'arxiu no s'ha trobat al directori de l'extensió"
+
+msgid "updated"
+msgstr "actualitzat"
+
+msgid "created"
+msgstr "creat"
+

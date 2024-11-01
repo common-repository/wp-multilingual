@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-05-21 18:36+0200\n"
+"Last-Translator: Oleg Butuzov <butuzov@made.com.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Українська\n"
+"X-Poedit-Country: Українська\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Deactivate"
+msgstr "Вимкнути"
+
+msgid "DOWN"
+msgstr "Донизу"
+
+msgid "Activate"
+msgstr "Увімкнути"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "UP"
+msgstr "Доверху"
+
+msgid "Priority"
+msgstr "Пріоритет"
+
+msgid "Sorry, lang code not found."
+msgstr "Вибачте мовний код не знайдено."
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "Код мови (2 чи 3 знаки)"
+
+msgid "Active"
+msgstr "Активна"
+
+msgid "Default language"
+msgstr "Мова по замовчуванню"
+
+msgid "Locale"
+msgstr "Локаль"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Language code"
+msgstr "Код мови"
+
+msgid "Language name"
+msgstr "Назва мови"
+
+msgid "Language country"
+msgstr "Країна мови"
+
+msgid "Language locale"
+msgstr "Локаль мови"
+
+msgid "Blog name"
+msgstr "Назва блогу"
+
+msgid "Blog description"
+msgstr "Опис блогу"
+
+msgid "required fields"
+msgstr "необхідні данні"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Reset"
+msgstr "Повернутись до початкових данних"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "Вибачте, але ця мова  не існує у базі даних."
+
+msgid "Sorry, but required fields are missed"
+msgstr "Вибачте, вле здається необхідні поля всеж таки пропущені."
+
+msgid "Sorry, but item already exists."
+msgstr "Вибачте, але запис для ціього коду вже існує"
+
+msgid "Error"
+msgstr "Помлика"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "Ви впевнені що маєте бажання повнітю видалити усі данні відносно плагіну WP_Multilingual (без можливості відновлення ) та деактивувати плагін."
+
+msgid "table empty"
+msgstr "таблиця пуста"
+
+msgid "Item doesn't exist"
+msgstr "Об'экт не існує"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Slug"
+msgstr "Аліас"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Save Information"
+msgstr "Зберегти інформацію"
+
+msgid "Installation"
+msgstr "Установка"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "Вам необхідно встановити <b>Dean's FCKEditor для вордпрессу</b> - цей плагін замінює візуальний редактор що використовується ВодПрессом на FCKeditor. Нам потрібен цей редактор щоб працювало редагуваня багатьох мов одночасно, ви можете його взяти з домашньої сторінки плагіна (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>)"
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor для Wordpress</b> встановлено та активовано"
+
+msgid "Step"
+msgstr "Крок"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "Будьласка оберіть мову що буде мовою по замовчуванню, у цю мову такою будуть скопійовані усі існуючі постию."
+
+msgid "Are you sure that you need this language "
+msgstr "Ви впевнені що вам необхідна саме ця мова"
+
+msgid "Set Default Language"
+msgstr "Встановити мову по замовчуванню"
+
+msgid "Please"
+msgstr "Будь ласка"
+
+msgid "configure WP_Multilingual"
+msgstr "сконфігуруйте WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "аби закінчити інсталяцію"
+
+msgid "Plugin uninstallation"
+msgstr "Видалення плагіну"
+
+msgid "Edit page"
+msgstr "Редагувати сторінку"
+
+msgid "Title"
+msgstr "Назва"
+
+msgid "Post/Page"
+msgstr "Пост/Сторінка"
+
+msgid "Excerpt"
+msgstr "Анотація"
+
+msgid "Options"
+msgstr "Опції"
+
+msgid "Language List"
+msgstr "Перелік доступних мов"
+
+msgid "Categories Translation"
+msgstr "Переклад категорій"
+
+msgid "Language Plugin Help"
+msgstr "Допомога"
+
+msgid "Delete translation data from"
+msgstr "Видалити усі переклади з таблиці"
+
+msgid "Flush"
+msgstr "Відновити"
+
+msgid "and"
+msgstr "та"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "Видалити мовні дані та деактивувати плагін"
+
+msgid "Edit Language"
+msgstr "Редагування мов"
+
+msgid "Add Language"
+msgstr "Додати мову"
+
+msgid "Do you really want to delete this language?"
+msgstr "Ви дійсно хочте видалити данну мову?"
+
+msgid "If you want to"
+msgstr "Якщо ви хочете"
+
+msgid "Deactivate plugin"
+msgstr "Вимкнути плагін"
+
+msgid "Translations"
+msgstr "Переклади"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Link Categories"
+msgstr "Категорії для посилань"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Select item to translate"
+msgstr "Оберіть тип для редагування"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "Вибачте але блог досі неміє тегів"
+
+msgid "Select category to edit (original categories)"
+msgstr "Оберіть категорію для редагування (першоджерельні категорії)"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "Вибачте, але цей блог поки що немає власних категорій для редагування"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "Оберіть категорію посилань  для редагування (першоджерельні категорії посилань)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "Оберіть тег для редагування"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "Локалізувати інтерфейс WP_Multilingual"
+
+msgid "WP_Multilingual localization"
+msgstr "Локалізація WP_Multilingual"
+
+msgid "WP_Multilingual - localized!"
+msgstr "WP_Multilingual - локалізовано!"
+
+msgid "WP Admin Localization"
+msgstr "Локалізація Адмінчастини ВордПрессу"
+
+msgid "Localize WP-Admin"
+msgstr "Локалізація WP-Admin"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "Локалізація Адмінчастини ВордПрессу (розташовані в wp-includes/languages)."
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "Локалізація WP_Multilingual (розташовані в %p/l10n)."
+
+msgid "WP localized"
+msgstr "WP локалізовано"
+
+msgid "Localization"
+msgstr "Локалізація"
+
+msgid "Language switcher settings saved"
+msgstr "Налаштування мовного перемикача збережені"
+
+msgid "Show language switcher at front end"
+msgstr "Показувати перемикач на сайті"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No - i will use own switcher"
+msgstr "Ні - я використаю власний перемикач"
+
+msgid "Switcher type"
+msgstr "Тип перемикача"
+
+msgid "Only active languages"
+msgstr "Тільки активні мови"
+
+msgid "Active and pasive languages"
+msgstr "Активні та пасивні мови"
+
+msgid "Show it attached to footer or header?"
+msgstr "Показувати прикріпленим до даху чи підвалу?"
+
+msgid "Footer"
+msgstr "Підвал"
+
+msgid "Header"
+msgstr "Дах"
+
+msgid "I will choose code location"
+msgstr "Я сам оберу місце розташування перемикача"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "Додайте цей код до ваших шаблонів у місце де ви хочете бачити перемикач мов"
+
+msgid "CSS for language switcher"
+msgstr "CSS для перемикача мов"
+
+msgid "Sample of custom language switcher"
+msgstr "Приклад перемикача мов"
+
+msgid "Localize WP"
+msgstr "Локалізувати WP"
+
+msgid "Your name"
+msgstr "Ваше ім´я"
+
+msgid "Your e-mail"
+msgstr "Адреса електроної пошти"
+
+msgid "Subject"
+msgstr "Тема повідомлення"
+
+msgid "Message"
+msgstr "Повідомлення"
+
+msgid "Send message to author"
+msgstr "Надіслати повідомлення автору"
+
+msgid "Request help"
+msgstr "Запит допомоги"
+
+msgid "Your message was not sent!.."
+msgstr "Ваше повідомлення не надіслано. Будь-ласка перевірте налаштування вашого поштового серверу."
+
+msgid "Your message sent!"
+msgstr "Ваше повідомленя надіслене автору"
+
+msgid "Translation"
+msgstr "Переклад"
+
+msgid "created"
+msgstr "створено"
+
+msgid "updated"
+msgstr "онолвено"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>локалі</strong> - файл відсутній в дитекторії плагіна"
+
+msgid "Languages"
+msgstr "Мови"
+

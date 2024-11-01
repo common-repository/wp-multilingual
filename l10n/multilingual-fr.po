@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-04-09 01:55+0200\n"
+"Last-Translator: Oleg Butuzov <qwerty@qwerty.co.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Français\n"
+"X-Poedit-Country: Français\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "enlever"
+
+msgid "Deactivate"
+msgstr "Déconnecter"
+
+msgid "DOWN"
+msgstr "En bas"
+
+msgid "Activate"
+msgstr "Connecter"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "UP"
+msgstr "En haut"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Sorry, lang code not found."
+msgstr "Pardon, code de lang n'a pas été trouvé"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "Code de Lang (2 ou 3 symboles)"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Default language"
+msgstr "Langue par défaut informatique"
+
+msgid "Locale"
+msgstr "Spécificité locale"
+
+msgid "Edit"
+msgstr "éditer"
+
+msgid "Language code"
+msgstr "Code de langue"
+
+msgid "Language name"
+msgstr "Nom de langue"
+
+msgid "Language country"
+msgstr "Pays de langue"
+
+msgid "Language locale"
+msgstr "Spécificité locale de la langue"
+
+msgid "Blog name"
+msgstr "Nom de blogue"
+
+msgid "Blog description"
+msgstr "description de blogue"
+
+msgid "required fields"
+msgstr "champs essentiels"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Save"
+msgstr "Conserver "
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "Pardon, mais cette langue n'existe pas dans la base de données "
+
+msgid "Sorry, but required fields are missed"
+msgstr "Pardon, mais les champs  essentiels sont laissées"
+
+msgid "Sorry, but item already exists."
+msgstr "Pardon, mais cette unité existe déjà"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "Vous étes sur que vous voulez enlever tous les données de langue liées à WP_Multilingual plugin et déconnecter plugin?"
+
+msgid "table empty"
+msgstr "table vide"
+
+msgid "Item doesn't exist"
+msgstr "Unité n'existe pas"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Slug"
+msgstr "Aliase"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Save Information"
+msgstr "Conserver l 'information"
+
+msgid "Installation"
+msgstr "Installation"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "Il faut installer<b>Dean's FCKEditor For Wordpress</b> - ce plugin substitue the default Wordpress editeur par défaut informatique avec  FCKeditor. Nous avons besoin de cette editeur afin de travailler avec beaucoup de langues. Vous pouvez la télecharger en (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor For Wordpress</b> a été installé et connecté"
+
+msgid "Step"
+msgstr "Pas"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "Séléctionnez la langue qui doit etre par défaut informatique pour les messages et pages vieux"
+
+msgid "Are you sure that you need this language "
+msgstr "Etes vous sur aue vous avez besoin de cette langue"
+
+msgid "Set Default Language"
+msgstr "Sélectionnez la langue par défaut informatique"
+
+msgid "Please"
+msgstr "S'il vous plait"
+
+msgid "configure WP_Multilingual"
+msgstr "configuez WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "afin de finir l'installation"
+
+msgid "Plugin uninstallation"
+msgstr "Deinstallation de plugin"
+
+msgid "Edit page"
+msgstr "Editer la page"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Post/Page"
+msgstr "Message/Page"
+
+msgid "Excerpt"
+msgstr "Sauf"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Language List"
+msgstr "Liste des langues"
+
+msgid "Categories Translation"
+msgstr "Traduction des catégories"
+
+msgid "Language Plugin Help"
+msgstr "Aide"
+
+msgid "Delete translation data from"
+msgstr "Enlever les données de traduction de"
+
+msgid "Flush"
+msgstr "Flush"
+
+msgid "and"
+msgstr "et"
+
+msgid "Remove"
+msgstr "deplacer"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "Enlever les données de langue et déconnecter Plugin"
+
+msgid "Edit Language"
+msgstr "Editer la langue"
+
+msgid "Add Language"
+msgstr "Ajouter la langue"
+
+msgid "Do you really want to delete this language?"
+msgstr "Etes vous sur que vous voulez enlever cette langue?"
+
+msgid "If you want to"
+msgstr "Si vous voulez "
+
+msgid "Deactivate plugin"
+msgstr "Déconnecter plugin"
+
+msgid "Translations"
+msgstr "Traductions"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Link Categories"
+msgstr "Catégories des liens"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Select item to translate"
+msgstr "Séléctionnez l' unité à traduire"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "Pardon, le site n'a pas les tags pour ce moment"
+
+msgid "Select category to edit (original categories)"
+msgstr "Séléctionnez la catégorie à éditer"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "Pardon mais site "
+
+msgid "Select link category to edit (original link categories)"
+msgstr "Séléctinnez catégorie de lien à éditer  (catégorie orginale de lien)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "Séléctinnez tag à éditer (tags orginals)"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "Localizer WP_Multilingual UI"
+
+msgid "WP_Multilingual localization"
+msgstr "Localization de WP_Multilingual"
+
+msgid "WP_Multilingual - localized!"
+msgstr "WP_Multilingual a été localizé"
+
+msgid "WP Admin Localization"
+msgstr "Localization de WP Admin"
+
+msgid "Localize WP-Admin"
+msgstr "Localizer WP-Admin"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "Localization de WP-Admin (localizé dans  wp-inclut/langues)."
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "Localization de WP_Multilingual (localizé dans %p/l10n)."
+
+msgid "WP localized"
+msgstr "WP a été localizé"
+
+msgid "Localization"
+msgstr "Localization"
+
+msgid "Language switcher settings saved"
+msgstr "Réglages de commutateur des langues ont été conservés"
+
+msgid "Show language switcher at front end"
+msgstr "Montrer la commutateur des langues sur le site"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No - i will use own switcher"
+msgstr "Non, je vais utilizer  mon propre commutateur"
+
+msgid "Switcher type"
+msgstr "Type de commutateur"
+
+msgid "Only active languages"
+msgstr "Ne que les langues actives"
+
+msgid "Active and pasive languages"
+msgstr "Langues actives et passives "
+
+msgid "Show it attached to footer or header?"
+msgstr "Montrer l'unité connecté footer ou titre?"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Header"
+msgstr "Titre"
+
+msgid "I will choose code location"
+msgstr "Je vais choisir la location de code"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "Mettez ce code dans votre template dans la place ou il vous faut vois la commutateur des langues"
+
+msgid "CSS for language switcher"
+msgstr "CSS pour la commutateur des langues"
+
+msgid "Sample of custom language switcher"
+msgstr "Modèle de commutateur des langues"
+
+msgid "Localize WP"
+msgstr "Localizer WP"
+
+msgid "Your name"
+msgstr "Votre nom"
+
+msgid "Your e-mail"
+msgstr "Votre e mail"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Send message to author"
+msgstr "Envoyer le message à l' auteur"
+
+msgid "Request help"
+msgstr "Démander l 'aide"
+
+msgid "Your message was not sent!.."
+msgstr "Votre message n a pas été envoyé Vérifiez  les réglages de votre serveur de mail"
+
+msgid "Your message sent!"
+msgstr "Votre message a  été envoyé"
+
+msgid "Translation"
+msgstr "Traduction"
+
+msgid "created"
+msgstr "créé"
+
+msgid "updated"
+msgstr "renouvelé"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>locale</strong> - file est manqué dans la directoire"
+
+msgid "Languages"
+msgstr "Langues"
+

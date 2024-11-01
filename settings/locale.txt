@@ -1,0 +1,174 @@
+af	af_AF	ltr	Afrikaans
+am	am_AM	ltr	āmariññā
+an	an_AN	ltr	Aragonés
+ar	ar_AE	rtl	العربية/الإمارات
+ar	ar_BH	rtl	العربية/البحرين
+ar	ar_DZ	rtl	العربية/الجزائر
+ar	ar_EG	rtl	العربية/مصر
+ar	ar_IQ	rtl	العربية/العراق
+ar	ar_JO	rtl	العربية/الأردن
+ar	ar_KW	rtl	العربية/الكويت
+ar	ar_LB	rtl	العربية/لبنان
+ar	ar_LY	rtl	العربية/ليبيا
+ar	ar_MA	rtl	العربية/المغرب
+ar	ar_OM	rtl	العربية/سلطنة عمان
+ar	ar_QA	rtl	العربية/قطر
+ar	ar_SA	rtl	العربية/السعودية
+ar	ar_SD	rtl	العربية/السودان
+ar	ar_SY	rtl	العربية/سوريا
+ar	ar_TN	rtl	العربية/تونس
+ar	ar_YE	rtl	العربية/اليمن
+as	as_AS	ltr	অসমীয়া
+ast	ast_AST	ltr	Asturianu
+az	az_AZ	ltr	Azərbaycan
+ba	ba_BA	ltr	Башҡорт
+be	be_BY	ltr	Беларускі
+bg	bg_BG	ltr	Български
+bn	bn_BN	ltr	Bangla
+br	br_BR	ltr	Brezhoneg
+bs	bs_BS	ltr	Bosanski
+ca	ca_ES	ltr	Сatalà/Espanya
+ce	ce_CE	ltr	Нохчийн
+ch	ch_CH	ltr	Chamoru
+co	co_CO	ltr	Corsu
+cr	cr_CR	ltr	Cree
+cs	cs_CZ	ltr	Čeština
+cv	cv_CV	ltr	Чăвашла
+cy	cy_CY	ltr	Cymraeg
+da	da_DK	ltr	Dansk
+de	de_AT	ltr	Deutsch/Österreich
+de	de_CH	ltr	Deutsch/Schweiz
+de	de_DE	ltr	Deutsch/Deutschland
+de	de_LU	ltr	Deutsch/Luxemburg
+el	el_CY	ltr	Ελληνικά/Κύπρος
+el	el_GR	ltr	Ελληνικά/Ελλάδα
+en	en_AU	ltr	English/Australia
+en	en_CA	ltr	English/Canada
+en	en_GB	ltr	English/United Kingdom
+en	en_IE	ltr	English/Ireland
+en	en_IN	ltr	English/India
+en	en_MT	ltr	English/Malta
+en	en_NZ	ltr	English/New Zealand
+en	en_PH	ltr	English/Philippines
+en	en_SG	ltr	English/Singapore
+en	en_US	ltr	English/United States
+en	en_ZA	ltr	English/South Africa
+eo	eo_EO	ltr	Esperanta
+es	es_AR	ltr	Español/Argentina
+es	es_BO	ltr	Español/Bolivia
+es	es_CL	ltr	Español/Chile
+es	es_CO	ltr	Español/Colombia
+es	es_CR	ltr	Español/Costa Rica
+es	es_DO	ltr	Español/República Dominicana
+es	es_EC	ltr	Español/Ecuador
+es	es_ES	ltr	Español/España
+es	es_GT	ltr	Español/Guatemala
+es	es_HN	ltr	Español/Honduras
+es	es_MX	ltr	Español/México
+es	es_NI	ltr	Español/Nicaragua
+es	es_PA	ltr	Español/Panamá
+es	es_PE	ltr	Español/Perú
+es	es_PR	ltr	Español/Puerto Rico
+es	es_PY	ltr	Español/Paraguay
+es	es_SV	ltr	Español/El Salvador
+es	es_US	ltr	Español/Estados Unidos
+es	es_UY	ltr	Español/Uruguay
+es	es_VE	ltr	Español/Venezuela
+et	et_EE	ltr	Eesti/Eesti
+eu	eu_EU	ltr	Euskera
+fa	fa_FA	rtl	فارسی
+fi	fi_FI	ltr	Suomi
+fj	fj_FJ	ltr	Na Vosa Vakaviti
+fo	fo_FO	ltr	Føroyskt
+fr	fr_BE	ltr	Français/Belgique
+fr	fr_CA	ltr	Français/Canada
+fr	fr_CH	ltr	Français/Suisse
+fr	fr_FR	ltr	Français/France
+fr	fr_LU	ltr	Français/Luxembourg
+fy	fy_FY	ltr	Frysk
+ga	ga_IE	ltr	Gaeilge/Éire
+gd	gd_GD	ltr	Gàidhlig
+gl	gl_GL	ltr	Galego
+gu	gu_GU	ltr	Gujarati
+he	he_IL	rtl	עברית
+hi	hi_IN	ltr	हिंदी/भारत
+hr	hr_HR	ltr	Hrvatski
+hsb	hsb_HSB	ltr	Hornjoserbšćina
+ht	ht_HT	ltr	Kreyòl Ayisyen
+hu	hu_HU	ltr	Magyar
+hy	hy_HY	ltr	հայերեն
+ia	ia_IA	ltr	Interlingua
+id	id_ID	ltr	Bahasa Indonesia
+ie	ie_IE	ltr	Interlingue
+in	in_ID	ltr	Bahasa Indonesia/Indonesia
+is	is_IS	ltr	Íslenska/Ísland
+it	it_CH	ltr	Italiano/Svizzera
+it	it_IT	ltr	Italiano/Italia
+iu	iu_IU	ltr	Inuktitut
+iw	iw_IL	ltr	עברית
+ja	ja_JP	ltr	日本語
+ka	ka_KA	ltr	ქართული
+kk	kk_KK	ltr	Қазақша
+km	km_KM	ltr	Khmer
+ko	ko_KR	ltr	한국어
+ky	ky_KY	ltr	Кыргызча
+la	la_LA	ltr	Latina
+lb	lb_LB	ltr	Lëtzebuergesch
+lt	lt_LT	ltr	Lietuvių/Lietuva
+lv	lv_LV	ltr	Latviešu/Latvija
+mi	mi_MI	ltr	Te Reo Māori
+mk	mk_MK	ltr	Македонски/Македонија
+ml	ml_ML	ltr	Malayalam
+mo	mo_MO	ltr	Graiul Moldovenesc
+mr	mr_MR	ltr	मराठी
+ms	ms_MY	ltr	Bahasa Melayu
+mt	mt_MT	ltr	Malti
+nb	nb_NB	ltr	‪Norsk Bokmål‬
+ne	ne_NE	ltr	नेपाली
+ng	ng_NG	ltr	Oshiwambo
+nl	nl_BE	ltr	Nederlands / België
+nl	nl_NL	ltr	Nederlands / Nederland
+nn	nn_NN	ltr	Norsk / Nynorsk
+no	no_NO	ltr	Norsk / Norge
+nv	nv_NV	ltr	Diné Bizaad
+oc	oc_OC	ltr	Lenga d’òc
+om	om_OM	ltr	Afaan Oromoo
+pa	pa_IN	rtl	भारत गणराज्य/नेपाली
+pa	pa_PK	rtl	یپنجاب/پنجاب
+pl	pl_PL	ltr	Polski/Polska
+pt	pt_BR	ltr	Português/Brasil
+pt	pt_PT	ltr	Português/Portugal
+qu	qu_QU	ltr	Runa Simi
+rm	rm_RM	ltr	Rumantsch
+ro	ro_RO	ltr	Română/România
+ru	ru_RU	ltr	Русский/Россия
+sa	sa_SA	ltr	संस्कृत
+sc	sc_SC	ltr	Sardu
+sd	sd_SD	rtl	فارسی
+sg	sg_SG	ltr	Sango
+sk	sk_SK	ltr	Slovenčina/Slovenská republika
+sl	sl_SI	ltr	Slovenščina/Slovenija
+so	so_SO	ltr	Af Somali
+sq	sq_AL	ltr	Shqipe
+sr	sr_BA	ltr	Српски/Босна и Херцеговина
+sr	sr_CS	ltr	Српски/Србија и Црна Гора
+sv	sv_SE	ltr	Svenska/Sverige
+sw	sw_SW	ltr	Kiswahili
+ta	ta_TA	ltr	தமிழ
+th	th_TH	ltr	ไทย/ประเทศไทย
+tig	tig_TIG	ltr	Tigré
+tk	tk_TK	ltr	Түркмен
+tlh	tlh_TLH	ltr	tlhIngan Hol
+tr	tr_TR	ltr	Türkçe
+uk	uk_UA	ltr	Українська
+ve	ve_VE	ltr	Tshivenda
+vi	vi_VN	ltr	Tiếng Việt
+vo	vo_VO	ltr	Volapük
+wa	wa_WA	ltr	Walon
+xh	xh_XH	ltr	isiXhosa
+yi	yi_YI	rtl	ייִדיש
+zh	zh_CN	ltr	中文/中国
+zh	zh_HK	ltr	中文/香港
+zh	zh_SG	ltr	中文/新加坡
+zh	zh_TW	ltr	中文/台灣
+zu	zu_ZU	ltr	isiZulu

@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-04-09 01:56+0200\n"
+"Last-Translator: Oleg Butuzov <qwerty@qwerty.co.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Čeština\n"
+"X-Poedit-Country: Čeština\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+msgid "DOWN"
+msgstr "DOLŮ"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Actions"
+msgstr "Akce"
+
+msgid "Your message was not sent!.."
+msgstr "Vaše zpráva nebyla odeslána."
+
+msgid "Your message sent!"
+msgstr "Zpráva odeslána!"
+
+msgid "Sample of custom language switcher"
+msgstr "Příklad vlastního přepínače jazyků"
+
+msgid "Languages"
+msgstr "Jazyky"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>locale</strong> - soubor nebyl nalezen v adresáři s pluginy"
+
+msgid "updated"
+msgstr "aktualizováno"
+
+msgid "created"
+msgstr "vytvořeno"
+
+msgid "Translation"
+msgstr "Překlad"
+
+msgid "Request help"
+msgstr "Požádat o pomoc"
+
+msgid "Send message to author"
+msgstr "Poslat autorovi zprávu"
+
+msgid "Message"
+msgstr "Obsah zprávy"
+
+msgid "Subject"
+msgstr "Předmět"
+
+msgid "Your e-mail"
+msgstr "Váš email"
+
+msgid "Your name"
+msgstr "Vaše jméno"
+
+msgid "Localize WP"
+msgstr "Lokalizovat WP"
+
+msgid "CSS for language switcher"
+msgstr "CSS pro přepínač jazyků"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "Vložte tento kód do Vaší šablony na místo, kde chcete zobrazit přepínání jazyků"
+
+msgid "I will choose code location"
+msgstr "Vyberu si sám umístění kódu"
+
+msgid "Header"
+msgstr "Hlavička"
+
+msgid "Footer"
+msgstr "Patička"
+
+msgid "Show it attached to footer or header?"
+msgstr "Zobrazit připojené k patičce nebo hlavičce"
+
+msgid "Active and pasive languages"
+msgstr "Aktivní a pasivní jazyky"
+
+msgid "Only active languages"
+msgstr "Pouze aktivní jazyky"
+
+msgid "Switcher type"
+msgstr "Typ přepínače"
+
+msgid "No - i will use own switcher"
+msgstr "Ne - Budu používat vlastní přepínání"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Show language switcher at front end"
+msgstr "Zobrazit přepínání jazyků uživatelům"
+
+msgid "Language switcher settings saved"
+msgstr "Nastavení přepínánače jazyků uloženo"
+
+msgid "Localization"
+msgstr "Lokalizace"
+
+msgid "WP localized"
+msgstr "Wordpress lokalizován"
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "Jazykové verze WP_Mulitilingual (umístěno v %p/l10n)."
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "Lokalizace Wordpress Administrace (umístěno v wp-includes/languages)."
+
+msgid "Localize WP-Admin"
+msgstr "Lokalizovat Wordpress Administraci"
+
+msgid "WP Admin Localization"
+msgstr "Lokalizace Wordpress Administrace"
+
+msgid "WP_Multilingual - localized!"
+msgstr "WP_Multilingual - lokalizován!"
+
+msgid "WP_Multilingual localization"
+msgstr "WP_Multilingual lokalizace"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "Lokalizovat WP_Multilingual UI"
+
+msgid "Select tag to edit (original tags)"
+msgstr "Vyberte tag k editaci (původní tagy)"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "Vyberte kategorii odkazů k editaci (původní kategorie odkazů)"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "Omlouvám se, ale žádné kategorie odkazů nebyly nalezeny"
+
+msgid "Select category to edit (original categories)"
+msgstr "Vyberte kategorii k editaci (původní kategorie)"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "Omlouvám se, ale žádné tagy nebyly nalezeny"
+
+msgid "Select item to translate"
+msgstr "Vyberte položku k překladu"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Link Categories"
+msgstr "Kategorie odkazů"
+
+msgid "Tags"
+msgstr "Tagy"
+
+msgid "Translations"
+msgstr "Překlady"
+
+msgid "Deactivate plugin"
+msgstr "Deaktivovat plugin"
+
+msgid "If you want to"
+msgstr "Jestli chcete"
+
+msgid "Do you really want to delete this language?"
+msgstr "Opravdu chcete smazat tento jazyk ?"
+
+msgid "Add Language"
+msgstr "Přidat jazyk"
+
+msgid "Edit Language"
+msgstr "Editovat jazyk"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "Provést odinstalaci a deaktivovat plugin"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "and"
+msgstr "a"
+
+msgid "Categories Translation"
+msgstr "Překlad Kategorií"
+
+msgid "Language Plugin Help"
+msgstr "Nápověda"
+
+msgid "Delete translation data from"
+msgstr "Smazat přeložené data z"
+
+msgid "Flush"
+msgstr "Vyprázdnit"
+
+msgid "Language List"
+msgstr "Seznam jazyků"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Excerpt"
+msgstr "Citace"
+
+msgid "Post/Page"
+msgstr "Příspěvek/Stránka"
+
+msgid "Title"
+msgstr "Nadpis"
+
+msgid "Edit page"
+msgstr "Editovat stránku"
+
+msgid "Plugin uninstallation"
+msgstr "Odinstalování pluginu"
+
+msgid "to finish installation"
+msgstr "dokonči instalaci"
+
+msgid "configure WP_Multilingual"
+msgstr "nastav WP_Multilingual"
+
+msgid "Please"
+msgstr "Prosím"
+
+msgid "Set Default Language"
+msgstr "Nastav jako výchozí"
+
+msgid "Are you sure that you need this language "
+msgstr "Jste si jist, že tento jazyk potřebujete "
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "Prosím vyberte výchozí jazyk pro existující příspěvky a stránky"
+
+msgid "Step"
+msgstr "Krok"
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor pro Wordpress</b> nainstalován a aktivován"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "<b>Dean's FCKEditor pro Wordpress</b> musí být nainstalován ke správnému fungování tohoto pluginu (tento plugin nahradí výchozí editor Wordpresu za FCKeditor). K nalezení je například <a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>zde</a>."
+
+msgid "Installation"
+msgstr "Instalace"
+
+msgid "Save Information"
+msgstr "Uložit"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Item doesn't exist"
+msgstr "Položka neexistuje"
+
+msgid "table empty"
+msgstr "prázdná tabulka"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "Jste si opravdu jisti, že chcete smazat veškerá data související s pluginem WP_Multilingual a také deaktivovat tento plugin ?"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Sorry, but item already exists."
+msgstr "Omlouvám se, položka již existuje."
+
+msgid "Sorry, but required fields are missed"
+msgstr "Omlouvám se, ale požadované údaje chybí"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "Omlouvám se, tento jazyk není v databázi"
+
+msgid "Reset"
+msgstr "Resetovat"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "required fields"
+msgstr "povinné pole"
+
+msgid "Blog description"
+msgstr "Popis blogu"
+
+msgid "Blog name"
+msgstr "Jméno blogu"
+
+msgid "Language locale"
+msgstr "Lokální nastavení jazyka"
+
+msgid "Language country"
+msgstr "Země"
+
+msgid "Language name"
+msgstr "Jméno jazyka"
+
+msgid "Language code"
+msgstr "Kód jazyka"
+
+msgid "Edit"
+msgstr "Editovat"
+
+msgid "Locale"
+msgstr "Lokální nastavení"
+
+msgid "Default language"
+msgstr "Výchozí jazyk"
+
+msgid "UP"
+msgstr "NAHORU"
+
+msgid "Sorry, lang code not found."
+msgstr "Omlouvám se, zadaný kód jazyka nebyl nalezen."
+
+msgid "Region"
+msgstr "Oblast"
+
+msgid "Language"
+msgstr "Lokalizace"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "Kód jazyka (2 nebo 3 znaky)"
+
+msgid "Active"
+msgstr "Aktivní"
+

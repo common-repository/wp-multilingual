@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP_Multilingual\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-04-25 20:59+0200\n"
+"Last-Translator: Oleg Butuzov <qwerty@qwerty.co.ua>\n"
+"Language-Team: WP_Multilingual <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Herbew\n"
+"X-Poedit-Country: Herbew\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "מחק"
+
+msgid "Deactivate"
+msgstr "הפסק פעולה"
+
+msgid "DOWN"
+msgstr "הורד"
+
+msgid "Activate"
+msgstr "הפעל"
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "UP"
+msgstr "העלה"
+
+msgid "Priority"
+msgstr "עדיפות"
+
+msgid "Sorry, lang code not found."
+msgstr "סליחה, קוד שפה לא נמצא."
+
+msgid "Region"
+msgstr "אזור"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "קוד שפה (2 או 3 תווים)"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Default language"
+msgstr "שפת ברירת מחדל"
+
+msgid "Locale"
+msgstr "סימול מקומי"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "Language code"
+msgstr "קוד שפה"
+
+msgid "Language name"
+msgstr "שם שפה"
+
+msgid "Language country"
+msgstr "שפת מדינה"
+
+msgid "Language locale"
+msgstr "סימול שפה מקומית"
+
+msgid "Blog name"
+msgstr "שם הבלוג"
+
+msgid "Blog description"
+msgstr "תאור הבלוג"
+
+msgid "required fields"
+msgstr "שדות נדרשים"
+
+msgid "Add"
+msgstr "הוסף"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "Reset"
+msgstr "איפוס"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "סליחה, השפה המבוקשת אינה קיימת במאגר הנתונים"
+
+msgid "Sorry, but required fields are missed"
+msgstr "סליחה, חסרים שדות נדרשים"
+
+msgid "Sorry, but item already exists."
+msgstr "סליחה, הפריט קיים כבר"
+
+msgid "Error"
+msgstr "טעות"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "האם אתה בטוח כי ברצונך למחוק את כל המידע הקשור לתוסף WP_Multilingual ולכבות אותו ?"
+
+msgid "table empty"
+msgstr "טבלה ריקה"
+
+msgid "Item doesn't exist"
+msgstr "פריט אינו קיים"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Description"
+msgstr "תאור"
+
+msgid "Save Information"
+msgstr "שמור מידע"
+
+msgid "Installation"
+msgstr "התקנה"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "יש צורך בהתקנת תוסף <b>Dean's FCKEditor For Wordpress</b> - תוסף זה מחליף את עורך ברירת המחדל של Wordpress ב  FCKeditor.העורך הזה נחוץ לעבודה עם ריבוי שפות. תוכל להורידו מדף הבית (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>)"
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "<b>Dean's FCKEditor עבור Wordpress</b>מותקן ומופעל"
+
+msgid "Step"
+msgstr "צעד"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "בחר שפה שתהיה ברירת המחדל לפרסומים ישנים ועמודים"
+
+msgid "Are you sure that you need this language "
+msgstr "האם אתה בטוח זקוק לשפה זו ?"
+
+msgid "Set Default Language"
+msgstr "קבע שפת ברירת מחדל"
+
+msgid "Please"
+msgstr "בבקשה"
+
+msgid "configure WP_Multilingual"
+msgstr "עיצוב WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "לסיים התקנה"
+
+msgid "Plugin uninstallation"
+msgstr "הסרת תוסף שפות"
+
+msgid "Edit page"
+msgstr "עריכת עמוד"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "Post/Page"
+msgstr "פרסום/עמוד"
+
+msgid "Excerpt"
+msgstr "מלבד"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "Language List"
+msgstr "שפות"
+
+msgid "Categories Translation"
+msgstr "תרגומים"
+
+msgid "Language Plugin Help"
+msgstr "עזרה"
+
+msgid "Delete translation data from"
+msgstr "מחק מידע תרגום (translation)מ"
+
+msgid "Flush"
+msgstr "רוקן"
+
+msgid "and"
+msgstr "ו"
+
+msgid "Remove"
+msgstr "הסר"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "מחק מידע שפות וכבה את התוסף"
+
+msgid "Edit Language"
+msgstr "עריכת שפה"
+
+msgid "Add Language"
+msgstr "הוספת שפה"
+
+msgid "Do you really want to delete this language?"
+msgstr "האם באמת אתה מעוניין למחוק שפה זו ?"
+
+msgid "If you want to"
+msgstr "אם אתה מעוניין"
+
+msgid "Deactivate plugin"
+msgstr "כיבוי התוסף"
+
+msgid "Translations"
+msgstr "תרגומים"
+
+msgid "Tags"
+msgstr "תגים"
+
+msgid "Link Categories"
+msgstr "קישורים"
+
+msgid "Categories"
+msgstr "נושאים"
+
+msgid "Select item to translate"
+msgstr "בחר פריט לתרגום"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "סליחה אך האתר אינו מכיל תגים כעת"
+
+msgid "Select category to edit (original categories)"
+msgstr "בחר נושא לעריכה (נושאים מקורים)"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "סליחה אך האתר אינו מכיל נושאי קישורים כעת"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "בחר נושא קישורים לעריכה (נושאי קישורים מקורית)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "בחר תג לעריכה (תגים מקורים)"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "שנה שפת תוסף WP_Multilingual "
+
+msgid "WP_Multilingual localization"
+msgstr "שפת תוסף WP_Multilingual"
+
+msgid "WP_Multilingual - localized!"
+msgstr "שפת ממשק ניהול תוסף שונתה"
+
+msgid "WP Admin Localization"
+msgstr "שפת ממשק ניהול"
+
+msgid "Localize WP-Admin"
+msgstr "שנה שפת ממשק ניהול"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "שפות לממשק ניהול (lממוקם ב wp-includes/languages)."
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "שפות לממשק ניהול תוסף WP_Multilingual (ממוקם ב %p/l10n)."
+
+msgid "WP localized"
+msgstr "שפת ממשק ניהול הותקנה"
+
+msgid "Localization"
+msgstr "שינוי שפות שימוש"
+
+msgid "Language switcher settings saved"
+msgstr "הגדרות מחליף שפה נשמרו"
+
+msgid "Show language switcher at front end"
+msgstr "הצג מחליף שפה בחזית"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No - i will use own switcher"
+msgstr "לא - אני אשתמש במחליף שפה אחר"
+
+msgid "Switcher type"
+msgstr "סוג מחליף שפה"
+
+msgid "Only active languages"
+msgstr "הצג שפות פעילות"
+
+msgid "Active and pasive languages"
+msgstr "הצג שפות פעילות ולא פעילות"
+
+msgid "Show it attached to footer or header?"
+msgstr "הצג צמוד לכותרת או לתחתית העמוד ?"
+
+msgid "Footer"
+msgstr "בתחתית העמוד"
+
+msgid "Header"
+msgstr "בכותרת העמוד"
+
+msgid "I will choose code location"
+msgstr "אני אבחר מקום  לקוד"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "הקש קוד זה לתוך תבנית היכן שברצונך להציג את מחליף השפות"
+
+msgid "CSS for language switcher"
+msgstr "CSS דף סגנון להחלפת שפה"
+
+msgid "Sample of custom language switcher"
+msgstr "דוגמה לקוד מחליף שפה "
+
+msgid "Localize WP"
+msgstr "שנה שפת ממשק האתר"
+
+msgid "Your name"
+msgstr "שמך"
+
+msgid "Your e-mail"
+msgstr "דואל שלך"
+
+msgid "Subject"
+msgstr "נושא"
+
+msgid "Message"
+msgstr "הודעה"
+
+msgid "Send message to author"
+msgstr "שלח הודעה  למחבר"
+
+msgid "Request help"
+msgstr "בקשת עזרה"
+
+msgid "Your message was not sent!.."
+msgstr "הדואל שלך לא נשלח!"
+
+msgid "Your message sent!"
+msgstr "הודעתך נשלחה"
+
+msgid "Translation"
+msgstr "תרגום"
+
+msgid "created"
+msgstr "נוצר"
+
+msgid "updated"
+msgstr "עודכן"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>סימול מקומי</strong> - חסר בספרית התוסף"
+
+msgid "Languages"
+msgstr "שפות קיימות"
+

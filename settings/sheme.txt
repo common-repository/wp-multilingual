@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS `[table_prefix]langs`;
+CREATE TABLE IF NOT EXISTS `[table_prefix]langs` (
+  `lang_id` int(11) NOT NULL auto_increment,
+  `lang_locale` char(10)  NULL,
+  `lang_shortcode` char(5)  NULL,
+  `dir` int(11) NOT NULL default '-1',
+  `lang_title` varchar(255)  NULL,
+  `lang_status` int(11) NOT NULL default '-1',
+  `lang_order` int(11) NOT NULL,
+  `blogname` varchar(255)   NULL,
+  `blogdescription` text    NULL,
+  PRIMARY KEY  (`lang_id`)
+) DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `[table_prefix]langs2translations`;
+CREATE TABLE IF NOT EXISTS `[table_prefix]langs2translations` (
+  `tr_id` int(11) NOT NULL auto_increment,
+  `tr_type` enum('post_tag','category','link_category') NOT NULL,
+  `item` int(11) NOT NULL,
+  `translation_name` varchar(255)  NULL,
+  `translation_slug` varchar(255)   NULL,
+  `translation_description` text  NULL,
+  `lang_id` int(11) NOT NULL,
+  PRIMARY KEY  (`tr_id`)
+) DEFAULT CHARSET=utf8;
+

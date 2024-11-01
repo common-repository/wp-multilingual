@@ -1,0 +1,356 @@
+# Copyright (C) 2006
+# This file is distributed under the same license as the WORDPRESS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Polyglot\n"
+"POT-Creation-Date: 2008-01-15 22:49+0200\n"
+"PO-Revision-Date: 2008-05-20 00:31+0200\n"
+"Last-Translator: Oleg Butuzov <butuzov@made.com.ua>\n"
+"Language-Team: Polyglot <polyglot@made.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\\..\n"
+"X-Poedit-Language: Français\n"
+"X-Poedit-Country: Français\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Deactivate"
+msgstr "تعطيل"
+
+msgid "DOWN"
+msgstr "إلى الأسفل"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Actions"
+msgstr " الإجراءات"
+
+msgid "UP"
+msgstr "إلى الأعلى"
+
+msgid "Priority"
+msgstr "أولوية"
+
+msgid "Sorry, lang code not found."
+msgstr "عذراً، لم يتم العثور على رمز اللغة"
+
+msgid "Region"
+msgstr "منطقة"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Lang Code (2 or 3 chars)"
+msgstr "رمز اللغة (حرفان أو ثلاثة)"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Default language"
+msgstr "اللغة الرئيسية"
+
+msgid "Locale"
+msgstr "موقع"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Language code"
+msgstr "رمز اللغة"
+
+msgid "Language name"
+msgstr "إسم اللغة"
+
+msgid "Language country"
+msgstr "بلد اللغة"
+
+msgid "Language locale"
+msgstr "موضع اللغة"
+
+msgid "Blog name"
+msgstr "إسم المدونة"
+
+msgid "Blog description"
+msgstr "تعريف المدونة"
+
+msgid "required fields"
+msgstr "حقول مطلوبة"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Reset"
+msgstr "مسح"
+
+msgid "Sorry, but this language doesn't exist in data base"
+msgstr "عذراً، هذه اللغة غير موجودة في قاعدة البيانات"
+
+msgid "Sorry, but required fields are missed"
+msgstr "عذراً، الحقول المطلوبة غير موجودة"
+
+msgid "Sorry, but item already exists."
+msgstr "عذراً، العنصر موجود"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Are You sure you want to delete all language data related WP_Multilingual plugin and deactivate plugin?"
+msgstr "هل أنت متأكد من أنك تريد حذف كل البينات المتعلقة بـ wp_Multilingual و إلغاء تفعيلها؟"
+
+msgid "table empty"
+msgstr "الجدول فارغ"
+
+msgid "Item doesn't exist"
+msgstr "العنصر غير موجود"
+
+msgid "Name"
+msgstr "الإسم"
+
+msgid "Slug"
+msgstr "الاسم المستعار"
+
+msgid "Description"
+msgstr "تعريف"
+
+msgid "Save Information"
+msgstr "حفظ المعلومات"
+
+msgid "Installation"
+msgstr "تثبيت"
+
+msgid "You need to install <b>Dean's FCKEditor For Wordpress</b> - this plugin replaces the default Wordpress editor with  FCKeditor. We need this editor to make it working with many languages. You can get it at homepage (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>) "
+msgstr "عليك تركيب <b>Dean's FCKEditor For Wordpress</b> - هذا البرنامج يستبدل محرر Wordpress  بالمحرر FCKeditor. نحتاج لهذا المحرر بالذات إذ أنه يسمح لنا باستخدام لغات عدة. يمكنك الحصول عليه من الصفحة التالية (<a href='http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/'>http://www.deanlee.cn/wordpress/fckeditor-for-wordpress-plugin/</a>)"
+
+msgid "<b>Dean's FCKEditor For Wordpress</b> installed and activated"
+msgstr "تم تثبيت وتفعيل <b>Dean's FCKEditor For Wordpress</b>"
+
+msgid "Step"
+msgstr "خطوة"
+
+msgid "Please select language that should be default for old posts and pages"
+msgstr "رجاءً إختر اللغة الرئيسية للمواضيع و الصفحات القديمة"
+
+msgid "Are you sure that you need this language "
+msgstr "هل أنت متأكد من أنك تحتاج هذه اللغة؟"
+
+msgid "Set Default Language"
+msgstr "إختر اللغة الرئيسية"
+
+msgid "Please"
+msgstr "لو سمحت"
+
+msgid "configure WP_Multilingual"
+msgstr "شكل WP_Multilingual"
+
+msgid "to finish installation"
+msgstr "لإنهاء التثبيت"
+
+msgid "Plugin uninstallation"
+msgstr "إلغاء تثبيت البرنامج"
+
+msgid "Edit page"
+msgstr "تعديل الصفحة"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Post/Page"
+msgstr "موضوع/ صفحة"
+
+msgid "Excerpt"
+msgstr "مقتطف"
+
+msgid "Options"
+msgstr "الختيارات"
+
+msgid "Language List"
+msgstr "قائمة اللغات"
+
+msgid "Categories Translation"
+msgstr "ترجمة الفئات"
+
+msgid "Language Plugin Help"
+msgstr "مساعدة لبرنامج اللغة"
+
+msgid "Delete translation data from"
+msgstr "حذف معلومات الترجمة من"
+
+msgid "Flush"
+msgstr ""
+
+msgid "and"
+msgstr "و"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Delete Laguage Data and Deactivate Plugin"
+msgstr "إحذف معلومات اللغة و عطل البرنامج"
+
+msgid "Edit Language"
+msgstr "تعديل اللغة"
+
+msgid "Add Language"
+msgstr "إضافة لغة"
+
+msgid "Do you really want to delete this language?"
+msgstr "هل تريد حذف هذه اللغة؟"
+
+msgid "If you want to"
+msgstr "إذا أردت أن"
+
+msgid "Deactivate plugin"
+msgstr "تعطيل البرنامج"
+
+msgid "Translations"
+msgstr "ترجمات"
+
+msgid "Tags"
+msgstr "علامات"
+
+msgid "Link Categories"
+msgstr "فئات روابط"
+
+msgid "Categories"
+msgstr "فئات"
+
+msgid "Select item to translate"
+msgstr "اختر عنصرا للترجمة"
+
+msgid "Sorry but Site doesn't have tags for now"
+msgstr "عذرا، ولكن الصفحة لا تحتوي على علامات"
+
+msgid "Select category to edit (original categories)"
+msgstr "اختر فئة للتعديل (الفئات الأصلية)"
+
+msgid "Sorry but Site doesn't have Link Categories for now"
+msgstr "عذرا، ولكن الصفحة لا تحتوي على فئات للروابط"
+
+msgid "Select link category to edit (original link categories)"
+msgstr "اختر فئة رابط للتعديل (فئات الروابط الأصلية)"
+
+msgid "Select tag to edit (original tags)"
+msgstr "اختر علامة للتعديل (العلامات الأصلية)"
+
+msgid "Localize WP_Multilingual UI"
+msgstr "حدد موضع WP_Multilingual UI"
+
+msgid "WP_Multilingual localization"
+msgstr "موضع WP_Multilingual"
+
+msgid "WP_Multilingual - localized!"
+msgstr "تم تحديد موضع WP_Multilingual!"
+
+msgid "WP Admin Localization"
+msgstr "موضع WP Admin"
+
+msgid "Localize WP-Admin"
+msgstr "حدد موضع WP-Admin"
+
+msgid "Localization of WP-admin (located at wp-includes/languages)."
+msgstr "موضع WP-admin (موجود تحت الملف wp-includes/languages)"
+
+msgid "Multilingual of WP_Multilingual (located at %p/l10n)."
+msgstr "متعدد لغات WP_Multilingual (موجود تحت الملف %p/l10n)"
+
+msgid "WP localized"
+msgstr "تم تحديد موضع WP"
+
+msgid "Localization"
+msgstr "موضع"
+
+msgid "Language switcher settings saved"
+msgstr "تم حفظ إعدادات مبدل اللغات"
+
+msgid "Show language switcher at front end"
+msgstr "قم بإظهار مبدل اللغات في الواجهة الأمامية"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No - i will use own switcher"
+msgstr "لا-  أريد استخدام المبدل الخاص بي"
+
+msgid "Switcher type"
+msgstr "نوع المبدل"
+
+msgid "Only active languages"
+msgstr "فقط اللغات المفعلة"
+
+msgid "Active and pasive languages"
+msgstr "اللغات المفعلة والغير مفعلة"
+
+msgid "Show it attached to footer or header?"
+msgstr "هل تريد إرفاقه في ذيل أو رأس الصفحة؟"
+
+msgid "Footer"
+msgstr "ذيل"
+
+msgid "Header"
+msgstr "رأس"
+
+msgid "I will choose code location"
+msgstr "سأختار موقع الرمز"
+
+msgid "Put this code into your template in place where you need to see language switcher"
+msgstr "أدخل هذا الرمز في النموذج في المكان الذي تريده أن يظهر فيه"
+
+msgid "CSS for language switcher"
+msgstr "CSS لمبدل اللغة"
+
+msgid "Sample of custom language switcher"
+msgstr "عينة من مبدل اللغة"
+
+msgid "Localize WP"
+msgstr "حدد موضع WP"
+
+msgid "Your name"
+msgstr "إسمك"
+
+msgid "Your e-mail"
+msgstr "بريدك الإلكتروني"
+
+msgid "Subject"
+msgstr "العنوان"
+
+msgid "Message"
+msgstr "نص الرسالة"
+
+msgid "Send message to author"
+msgstr "أرسل رسالة إلى المؤلف"
+
+msgid "Request help"
+msgstr "طلب المساعدة"
+
+msgid "Your message was not sent!.."
+msgstr "لم يتم إرسال الرسالة"
+
+msgid "Your message sent!"
+msgstr "تم إرسال الرسالة"
+
+msgid "Translation"
+msgstr "الترجمة"
+
+msgid "created"
+msgstr "تم الإنشاء"
+
+msgid "updated"
+msgstr "تم التحديث"
+
+msgid "<strong>locale</strong> - file missing at plugin directory"
+msgstr "<strong>موقع</strong> - ملف من ملفات البرنامج مفقود"
+
+msgid "Languages"
+msgstr "لغات"
+
